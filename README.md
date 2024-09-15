@@ -1,10 +1,10 @@
-# responsive-navbar
-This is a custom responsive navbar made with HTML, CSS and JavaScript. Feel free to customize.
+# Responsive-Navbar
+This is a custom responsive navbar made with HTML, CSS and JavaScript. Feel free to customize Anytime.
 
 ## Technologies Used
 - HTML
 - CSS
-- JavaScipt
+- JavaScript
 - Iconify
 - Google Fonts
 - CSS Animations
